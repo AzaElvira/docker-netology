@@ -1,0 +1,6 @@
+﻿Django
+django-filter
+djangorestframework
+gunicorn
+python-dotenv
+psycopg2-binary
